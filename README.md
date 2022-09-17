@@ -1,5 +1,11 @@
 <div align="center">
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DSDmark/SBHostel-webTemplate)
+![GitHub](https://img.shields.io/github/license/DSDmark/SBHostel-webTemplate)
+![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/SBHostel-webTemplate)
+![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/SBHostel-webTemplate)
+[![Deploy static content to Pages](https://github.com/DSDmark/SBHostel-webTemplate/actions/workflows/static.yml/badge.svg)](https://github.com/DSDmark/SBHostel-webTemplate/actions/workflows/static.yml)
+
 # HTML WEB TEMPLATES
 
 <div>
